@@ -152,6 +152,8 @@ var application = {
 		});
 
 		casper.then(function(){
+
+			application.global.result = "<style>" + application.global.result + "</style>";
 	
 			fs.write(application.global.outputFile, application.global.result, 'w');
 
