@@ -14,9 +14,9 @@ Instructions for use:
 3. Open Terminal, and CD to your site directory "CD ~/path/to/site/root"
 4. Then run "casperjs critical-css.js"
 5. Follow the prompts on screen
-	a. It will ask you for the URL you'd like to parse
-	b. Then the output file, you can leave this blank and it will default to "critical-css.txt"
-	c. Then it will finally ask for the browser dimensions you'd like to use, this is useful for doing responsive sites. If left blank will default to 1024x768.
+5a. It will ask you for the URL you'd like to parse
+5b. Then the output file, you can leave this blank and it will default to "critical-css.txt"
+5c. hen it will finally ask for the browser dimensions you'd like to use, this is useful for doing responsive sites. If left blank will default to 1024x768.
 6. Open your output file, and copy it's contents
 7. Paste the contents into your sites <head> section (before your .css link href's)
 8. Enjoy your freshly optimised site.
