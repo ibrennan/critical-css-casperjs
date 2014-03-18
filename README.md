@@ -1,7 +1,7 @@
 Critical CSS - CasperJS
 =====================
 
-Author: @nannerB / https://twitter.com/nannerb
+Author: @nannerB / http://ibrennan.co.uk
 
 Inspired by this post from Paul Kinlan: http://paul.kinlan.me/detecting-critical-above-the-fold-css/
 
