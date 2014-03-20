@@ -16,7 +16,7 @@ Instructions for use:
 5. Follow the prompts on screen
 7. It will ask you for the URL you'd like to parse
 8. Then the output file, you can leave this blank and it will default to "critical-css.txt"
-9. hen it will finally ask for the browser dimensions you'd like to use, this is useful for doing responsive sites. If left blank will default to 1024x768.
+9. Then it will finally ask for the browser dimensions you'd like to use, this is useful for doing responsive sites. If left blank will default to 1024x768.
 10. Open your output file, and copy it's contents
 11. Paste the contents into your sites <head> section (before your .css link href's)
 12. Enjoy your freshly optimised site.
