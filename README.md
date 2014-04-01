@@ -1,3 +1,17 @@
+# CODE MOVED
+
+The code for this has moved to here: https://github.com/ibrennan/automation/tree/master/content/critical-css
+
+I wanted to centralize all of my automation scripts.
+
+The old CasperJS script will remain here for the time being.
+
+
+
+
+
+
+
 Critical CSS - CasperJS
 =====================
 
